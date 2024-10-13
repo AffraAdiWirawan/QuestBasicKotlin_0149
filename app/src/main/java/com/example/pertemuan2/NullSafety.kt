@@ -20,7 +20,8 @@ fun NullSafety(){
     }
 
 
-    
+
+}
 
 
 fun main(){
