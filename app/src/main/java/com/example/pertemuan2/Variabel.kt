@@ -23,7 +23,9 @@ fun main() {
     val booleanValue: Boolean = true
     println("Boolean: $booleanValue")
 
-
+    // String: Tipe data untuk menyimpan urutan karakter (teks).
+    var stringValue: String = "Hello, World!"
+    println("String: $stringValue")
 
     // Mengubah nilai string
     stringValue = "Hello, Kotlin!"
