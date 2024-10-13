@@ -22,4 +22,10 @@ fun main(){
     println(data==data2) // false
 
 
+    // Fungsi Copy
+    val data3 = data.copy()
+    println(data3)
+
+
+
 }
